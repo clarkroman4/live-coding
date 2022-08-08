@@ -2,7 +2,7 @@
 
 <p>In this problem you will be given an integer. For integer x you need to print from 1 to x using fizzbuzz format.
 
-Fizzbuzz format dicatest that if the number is divisible by 3 you print the word "fizz".
+Fizzbuzz format dictates that if the number is divisible by 3 you print the word "fizz".
 
 If the number is divisible by 5 you print the word "buzz".
 
